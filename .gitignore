@@ -1,0 +1,30 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===== 虚拟环境（绝不能上传）=====
+.venv/
+venv/
+env/
+ENV/
+
+# ===== IDE / 编辑器 =====
+.idea/
+.vscode/
+*.swp
+.run/
+
+# ===== 生成的文档产物（运行程序自动生成，不需要上传）=====
+学习规划_*.docx
+学习规划_*.pdf
+*.docx
+*.pdf
+
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
